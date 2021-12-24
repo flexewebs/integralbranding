@@ -4,7 +4,7 @@
 
 These are the values that govern Integral as a company. 
 
-<img src="https://github.com/flexewebs/Integral-White-Papers/blob/master/i/Characteristics.png" alt="Integral characteristics" />
+<img src="https://github.com/flexewebs/integralbranding/blob/main/i/Characteristics.png" alt="Integral characteristics" />
 
 ### 1. Integrity
 Integrity simply means delivering on your word. Your word is your bond. What you say is what you do. If you promise something, you have to deliver on it. There are no excuses. If you cannot deliver something, you don't promise it in the first place. If there are complications with what you promised, you make those complications clear as soon as possible. If you need more time or effort to complete something, keep everyone updated about what's going on as early as possible. 
@@ -38,7 +38,7 @@ We create with (en)joy(ment) in everything we do. We are not looking to create t
 
 ## Integral creation process
 
-<img src="https://github.com/flexewebs/Integral-White-Papers/blob/master/i/Design%20approach.png" alt="Design approach" />
+<img src="https://github.com/flexewebs/integralbranding/blob/main/i/Design%20approach.png" alt="Design approach" />
 
 ### 0. Talk - is cheap
 Avoid simply talking to others. One of the best ways to waste a lot of time is to talk endlessly about things. Instead of talking, we ought to focus on at least the next step (writing) things down. In a meeting with N people, each 5 minutes of talking are using up N*5 minutes of overall team's time. Meanwhile, no re-referencable artefact gets created, making it hard for other members of the team to remember what got discussed in the meeting.
@@ -66,7 +66,7 @@ Even though experience is the product, the ultimate goal of our creation is to i
 
 ## Integral creative organisation
 
-<img src="https://github.com/flexewebs/Integral-White-Papers/blob/master/i/Organisation.png" alt="Creative organisation" />
+<img src="https://github.com/flexewebs/integralbranding/blob/main/i/Organisation.png" alt="Creative organisation" />
 
 ### 1. Plan 
 Make as many decisions on what is in scope of the given unit of creation. Lay it out neatly and clearly. Use [Super Simple Stories](https://github.com/flexewebs/Integral-White-Papers/blob/master/supersimplestories.md) to describe things as much as possible. Keep it simple. The outcome of this activity will give you a plan for how to carry out the rest of the creative task. 
