@@ -2,17 +2,17 @@
 
 ### Methodology
 
-* [Integral content production process](content.md)
-* [Integral creative process](creation.md)
+* [Content production process](content.md)
+* [Creative process](creation.md)
 
 ### Voice
 
-* [Integral values, principles and approaches](values.md)
-* [Integral brand vocabulary](vocabulary.md)
+* [Values, principles and approaches](values.md)
+* [Vocabulary](vocabulary.md)
 
 ### Atoms&#x20;
 
-* Colours&#x20;
+* [Colours](colours.md)
 * Shapes&#x20;
 * Words&#x20;
 * Fonts&#x20;
