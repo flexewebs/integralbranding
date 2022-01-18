@@ -1,6 +1,6 @@
 ## Integral content production
 
-<img src="https://github.com/flexewebs/integralbranding/blob/main/i/Organisation.png" alt="Creative organisation" />
+![Creative organisation](https://github.com/flexewebs/integralbranding/blob/main/i/Organisation.png "Creative organisation")
 
 ### 1. Plan 
 Make as many decisions on what is in scope of the given unit of creation. Lay it out neatly and clearly. Use [Super Simple Stories](https://github.com/flexewebs/Integral-White-Papers/blob/master/supersimplestories.md) to describe things as much as possible. Keep it simple. The outcome of this activity will give you a plan for how to carry out the rest of the creative task. 
