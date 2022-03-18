@@ -1,27 +1,40 @@
 # Integral brand guidelines
 
-### Methodology
+### Culture
 
-* [Content production process](content.md)
-* [Creative process](creation.md)
+* [Principles](principles.md)
+* [Creation](creation.md)
+* [Process](content.md)
+* [People](people.md)
 
-### Voice
+### Atoms
 
-* [Values, principles and approaches](values.md)
-* [Vocabulary](vocabulary.md)
-
-### Atoms&#x20;
-
+* [Words](vocabulary.md)
 * [Colours](colours.md)
-* Shapes&#x20;
-* Words&#x20;
-* Fonts&#x20;
+* Fonts 
 * Grid
+* Shapes
+* Photos 
+* Icons 
+* Logo
+* Tagline
 
-### Molecules&#x20;
+### Molecules
 
-* Phrases&#x20;
-* Gradients&#x20;
-* Patterns&#x20;
+* Phrases
+* Gradients
+* Patterns
 * Layouts
+* Typography
 
+### Compounds 
+
+* 
+* 
+* 
+
+### Materials 
+
+* Podcast 
+* Instagram
+* 
